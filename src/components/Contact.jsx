@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Contact = () => {
-    const Cv = 'https://portfolio-aogqske2j-srn-james-projects.vercel.app/mailtoj.saranpanachai@hotmail.com' //http://localhost:3000
+    const Cv = 'https://portfolio-aogqske2j-srn-james-projects.vercel.app/mailtoj.saranpanachai@hotmail.com/Resume.pdf' //http://localhost:3000
     const download_cv = (url) => {
       const fileName = url.split('/').pop()
       const aTag = document.createElement('a')

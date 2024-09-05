@@ -39,5 +39,7 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.3.1"
-  }
+  },
+    "homepage": "https://portfolio-git-main-srn-james-projects.vercel.app/"
+  
 }

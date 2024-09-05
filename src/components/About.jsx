@@ -7,11 +7,11 @@ const About = () => {
             <div className='pb-8'>
                 <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
             </div>
-            <p className='text-xl mt-20'>ฟหสวกาฟหสกาฟหสวากสวฟหากสวหฟากแทมอื้พิ้อแเ้ ๆอหแท่หกิา่หอ่หกือ่ืาืฟหาืแ
+            <p className='text-xl mt-20'>สวัสดีครับ ผม ศรันย์ พณะชัย 
             </p>
             <br/>
             <p className='text-xl'>
-                asdasdasdashdvgsahmdgbhmasbdmashbdmjsabdjsabdkjasbdsadaskljdaskldhjbgfdjkbfasdjasdkjasdkjhaskjdhkasjhdkjashdkjashdkjhsakdjhsakjdhaskjdhkjsahdjkashdk
+                จบการศึกษาจากมหาวิทยาลัยเกษตรศาสตร์กำแพงแสน สาขาเทคโนโลยีสารสนเทศ มีความตั้งใจในสายงานโปรแกรมเมอร์ พร้อมที่จะพัฒนาทักษะการเขียนโปรแกรมและพร้อมที่จะเรียนรู้เทคโนโลยีใมห่และ Tech Stack ใหม่ ๆ
             </p>
         </div>
     </div>

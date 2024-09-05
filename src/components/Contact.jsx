@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Contact = () => {
-    const Cv = 'http://localhost:3000/demo.pdf'
+    const Cv = 'http://localhost:3000/Resume.pdf'
     const download_cv = (url) => {
       const fileName = url.split('/').pop()
       const aTag = document.createElement('a')
